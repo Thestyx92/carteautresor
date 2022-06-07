@@ -1,0 +1,22 @@
+C - 9 - 12
+
+M - 0 - 0
+M - 4 - 0
+M - 2 - 3
+M - 6 - 3
+M - 7 - 3
+M - 8 - 3
+M - 1 - 5
+M - 7 - 7
+M - 0 - 9
+M - 4 - 9
+M - 6 - 11
+
+T - 5 - 4 - 1
+T - 8 - 6 - 1
+T - 5 - 8 - 3
+T - 1 - 11 - 2
+
+A - Lara - 8 - 1 - E - DAAAAADAAAGAA
+A - Indiana - 1 - 4 - S - DAGAAAAGADAAA
+A - John - 7 - 10 - N - AAADAAGAAGAAADAADDAAAA
